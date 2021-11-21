@@ -11,6 +11,12 @@ It was too difficult to change everything.
 
 Instead, I created this small far less bloated javascript snippet for use in the header to allow all those jQuery calls to work. They are queued for whenever the actual jQuery library is loaded, and then run.
 
+---
+
+202111 - Currently in use on only two production sites.
+
+Please let me know if you find it useful.
+
 
 ## Result
 ### before:
