@@ -1,5 +1,5 @@
 /* load in header. suggest copy paste, not <script src 
-andrew andy@andyt.co https://github.com/andrewtranter/jQuery_deferred_compat */
+andrewtr andy@andyt.co https://github.com/andrewtranter/jQuery_deferred_compat */
 window.JQP={JQ:1,JQT:0,JQa:0};
 window.JQ = window.JQ || {f:[]};
 window.$ = window.jQuery = function()
