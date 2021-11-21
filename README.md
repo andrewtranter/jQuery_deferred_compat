@@ -5,7 +5,7 @@ Allow jQuery to be defer or async loaded by queuing jQueries to be processed lat
 
 jQuery is a massive bloated library and is slowing down the load times of a Wordpress project.
 
-I wanted to defer (or async) load jQuery, but many Wordpress plugins, themes, and even Wordpress internals call jQuery directly with no regard or concern if its ready to go or not.
+It is usually not required until after the page is loaded, and sometimes not even then!. So I wanted to defer (or async) load jQuery. But many Wordpress plugins, themes, and even Wordpress internals call jQuery directly with no regard or concern if its ready to go or not.
 
 It was too difficult to change everything.
 
