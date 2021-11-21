@@ -9,7 +9,7 @@ I wanted to defer (or async) load jQuery, but many Wordpress plugins, themes, an
 
 It was too difficult to change everything.
 
-Instead, I created this small far less bloated javascript snippet for use in the header to allow all those jQuery calls to work. They are queued ready for whenever the actual jQuery library is loaded, and run then.
+Instead, I created this small far less bloated javascript snippet for use in the header to allow all those jQuery calls to work. They are queued for whenever the actual jQuery library is loaded, and then run.
 
 
 ## Result
