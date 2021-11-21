@@ -34,7 +34,7 @@ Instead, I created this small far less bloated javascript snippet for use in the
       $( document ).ready(function(){ console.log('jQuery is ready!'); });
     </script>
     ...
-    <script language="javascript" src="footer.js"></script>
+    <script language="javascript" src="footer.js" defer></script>
   </body>
 </html>
 ```
