@@ -1,5 +1,5 @@
 /* load in footer, copy paste, or can be a file that is async/defer loaded.
-andrew andy@andyt.co https://github.com/andrewtranter/jQuery_deferred_compat */
+andrewtr andy@andyt.co https://github.com/andrewtranter/jQuery_deferred_compat */
 window.addEventListener('DOMContentLoaded', JQgo );
 window.addEventListener('load', JQgo );//both ... because of apple
 
