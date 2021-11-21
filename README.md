@@ -1,6 +1,7 @@
 # jQuery_deferred_compat
 Allow jQuery to be defer or async loaded by queuing jQueries to be processed later
 
+---
 
 jQuery is a massive bloated library slowing down a Wordpress project.
 
