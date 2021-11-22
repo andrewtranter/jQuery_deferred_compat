@@ -21,6 +21,7 @@ Please let me know if you find it useful.
 ## Result
 ### before:
    `Uncaught ReferenceError: jQuery is not defined`
+   `Uncaught ReferenceError: $ is not defined`
 ### after:
   .. uh .. it just works instead.
 
